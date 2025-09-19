@@ -1,0 +1,1 @@
+# rukatrakit.co-payments-qrcode
